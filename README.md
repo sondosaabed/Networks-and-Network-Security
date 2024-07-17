@@ -17,7 +17,7 @@ Introduction to network security and explaining how it relates to ongoing securi
 Exploring network protocols and how network communication can introduce vulnerabilities. In addition, you'll learn about common security measures, like firewalls, that help network operations remain safe and reliable.
 
 ### Module 3: Secure against network intrusions
-You will understand types of network attacks and techniques used to secure compromised network systems and devices. You'll explore the many ways that malicious actors exploit vulnerabilities in network infrastructure and how cybersecurity professionals identify and close potential loopholes.
+Understanding types of network attacks and techniques used to secure compromised network systems and devices. Exploring the many ways that malicious actors exploit vulnerabilities in network infrastructure and how cybersecurity professionals identify and close potential loopholes.
 
 ### Module 4: Security hardening
-You will become familiar with network hardening practices that strengthen network systems. You'll learn how security hardening helps defend against malicious actors and intrusion methods. You'll also learn how to use security hardening to address the unique security challenges posed by cloud infrastructures.
+Became familiar with network hardening practices that strengthen network systems. Learn how security hardening helps defend against malicious actors and intrusion methods. also learned how to use security hardening to address the unique security challenges posed by cloud infrastructures.
