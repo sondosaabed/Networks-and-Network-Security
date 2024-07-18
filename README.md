@@ -21,3 +21,6 @@ Understanding types of network attacks and techniques used to secure compromised
 
 ### Module 4: Security hardening
 Became familiar with network hardening practices that strengthen network systems. Learn how security hardening helps defend against malicious actors and intrusion methods. also learned how to use security hardening to address the unique security challenges posed by cloud infrastructures.
+
+## Course Certificate
+![image](https://github.com/user-attachments/assets/1601d3fa-a455-4f74-a036-3ffb8d3b1a5e)
